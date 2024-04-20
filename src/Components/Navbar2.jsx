@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import 'C:/Users/shash/OneDrive/Desktop/reactproject/src/CSS2/module.Navbar2.css'
+import 'C:/Users/shash/OneDrive/Desktop/reactproject/src/CSS/module.Navbar2.css'
 
 function Navbar2() {
   return (

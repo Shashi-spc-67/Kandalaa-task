@@ -1,5 +1,5 @@
 import React from 'react'
-import 'C:/Users/shash/OneDrive/Desktop/reactproject/src/CSS2/molude.Slide1.css'
+import 'C:/Users/shash/OneDrive/Desktop/reactproject/src/CSS/molude.Slide1.css'
 function Slide1() {
   return (
     <div>

@@ -3,9 +3,9 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './Component2/Navbar';
-import Navbar2 from './Component2/Navbar2';
-import Slide1 from './Component2/Slide1';
+import Navbar from './Components/Navbar';
+import Navbar2 from './Components/Navbar2';
+import Slide1 from './Components/Slide1';
 
 
 function App() {
@@ -21,17 +21,5 @@ function App() {
 
 export default App;
 
-// ~~~~~~~~~~~~~~~~~~~~Component2~~~~~~~~~~~~~~~~//
 
-// import React from 'react'
-// // import Navbar from './Component2/Navbar'
 
-// function App() {
-//   return (
-//     <div>
-//       {/* <Navbar/> */}
-//     </div>
-//   )
-// }
-
-// export default App
