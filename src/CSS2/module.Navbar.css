@@ -1,0 +1,21 @@
+.container-fluid{
+    height:60px;
+    
+}
+.navbar-brand{
+    height: 50px;
+    width: 250px;
+    margin-left: 100px;
+    /* border: 2px solid red; */
+    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/kandalaalogo.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-control{
+    height: 40px;
+   width: 250px;
+    /* margin-right: 100px; */
+}
+.btn {
+    margin-right: 200px;
+}
