@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import 'C:/Users/shash/OneDrive/Desktop/reactproject/src/CSS/module.Navbar.css'
-// import { CiSearch } from "react-icons/ci";
+import "./Navbar.css"
 
 
 function Navbar() {

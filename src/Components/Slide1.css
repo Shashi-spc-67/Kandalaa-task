@@ -3,7 +3,7 @@
     height: 600px;
     width: auto;
     /* border: 2px solid red; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/home-banner-desk.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/home-banner-desk.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: static;
@@ -104,7 +104,7 @@ font-size: 42px;
     height: 60px;
     width: 90px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/assurance.svg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/assurance.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -112,7 +112,7 @@ font-size: 42px;
     height: 60px;
     width: 90px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/exchange.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/exchange.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -120,7 +120,7 @@ font-size: 42px;
     height: 60px;
     width: 90px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/return.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/return.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -128,7 +128,7 @@ font-size: 42px;
     height: 60px;
     width: 90px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/transparency.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/transparency.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -136,7 +136,7 @@ font-size: 42px;
     height: 60px;
     width: 90px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/icon-one.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/icon-one.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -144,7 +144,7 @@ font-size: 42px;
     height: 60px;
     width: 90px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/icon-two.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/icon-two.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -167,7 +167,7 @@ font-size: 42px;
     height: 30px;
     width: 200px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/bottom-icon.svg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/bottom-icon.svg");
 }
 .Slide4{
     height: 230px;
@@ -184,7 +184,7 @@ font-size: 42px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    /* background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/1713591367.jpg"); */
+    /* background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/1713591367.jpg"); */
 }
 .img-2{
     height: 150px;
@@ -243,7 +243,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/1713591367.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/1713591367.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -252,7 +252,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/neckl.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/neckl.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -261,7 +261,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/ring.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/ring.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -270,7 +270,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/bangl.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/bangl.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -279,7 +279,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/pendent.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/pendent.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -288,7 +288,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/menbrace.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/menbrace.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -366,7 +366,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/chain.jpeg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/chain.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     /* border-radius: 50%; */
@@ -375,7 +375,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/blaaa.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/blaaa.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* border-radius: 50%; */
@@ -384,7 +384,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/chaaaa.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/chaaaa.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* border-radius: 50%; */
@@ -393,7 +393,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/2ring.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/2ring.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* border-radius: 50%; */
@@ -402,7 +402,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/2banga.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/2banga.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* border-radius: 50%; */
@@ -411,7 +411,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/3bangaa.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/3bangaa.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -467,7 +467,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/3ring.jpeg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/3ring.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -475,7 +475,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/men ven.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/men ven.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -483,7 +483,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/men chain.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/men chain.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -491,7 +491,7 @@ font-size: 42px;
     height: 150px;
     width: 150px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/ringaaaa.jpg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/ringaaaa.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -516,7 +516,7 @@ font-size: 42px;
     height: 30px;
     width: 200px;
     /* border: 2px solid green; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/bottom-icon.svg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/bottom-icon.svg");
     margin-top: -8px;
     margin-left: 200PX;
 }
@@ -525,7 +525,7 @@ font-size: 42px;
     height: 550px;
     width: auto;
     /* border: 2px solid red; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/sale-one.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/sale-one.png");
     background-size: cover;
     /* background-repeat: no-repeat; */
     background-position: static;
@@ -555,7 +555,7 @@ font-size: 42px;
 .card{
     height: 294px;
     width: 400px;
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/social.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/social.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
@@ -576,7 +576,7 @@ font-size: 42px;
 .card1{
     height: 294px;
     width: 400px;
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/social.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/social.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
@@ -596,7 +596,7 @@ font-size: 42px;
 .card2{
     height: 294px;
     width: 400px;
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/social.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/social.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 10px;
@@ -618,7 +618,7 @@ font-size: 42px;
     height: 500px;
     width: auto;
     /* border: 2px solid red; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/women-new.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/women-new.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: static;
@@ -681,7 +681,7 @@ font-size: 42px;
     height:80px;
     width:80px;
     /* border: 2px solid red; */
-background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/tour.png");
+background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/tour.png");
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -714,7 +714,7 @@ background-size: cover;
     width:80px;
     /* border: 2px solid red; */
     margin-bottom: 30px;
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/call.svg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/call.svg");
 background-repeat: no-repeat;
 background-size: cover;
 background-color: white;
@@ -742,7 +742,7 @@ background-color: white;
     height:80px;
     width:80px;
     /* border: 2px solid red; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/map.svg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/map.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: white;
@@ -764,7 +764,7 @@ background-color: white;
     width:80px;
     background-color: white;
     /* border: 2px solid red; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/video-call.svg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/video-call.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -785,7 +785,7 @@ background-color: white;
     width:80px;
     /* border: 2px solid red; */
     background-color: white;
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/calendar.svg");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/calendar.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -803,7 +803,7 @@ background-color: white;
     height: 200px;
     width: 300px;
     /* border: 2px solid yellow; */
-    background-image: url("C:/Users/shash/OneDrive/Desktop/reactproject/public/kandalaa-logo-footer.png");
+    background-image: url("C:/Users/shash/OneDrive/Desktop/Kandalaa-task/public/kandalaa-logo-footer.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 100px;
