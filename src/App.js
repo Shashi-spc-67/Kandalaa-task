@@ -1,4 +1,3 @@
-
 // import logo from './logo.svg';
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
@@ -11,9 +10,9 @@ import Slide1 from './Components/Slide1';
 function App() {
   return (<div>
   <BrowserRouter>
-<Navbar/>
-<Navbar2/>
-<Slide1/>
+    <Navbar/>
+    <Navbar2/>
+    <Slide1/>
   </BrowserRouter>
   </div>
   );

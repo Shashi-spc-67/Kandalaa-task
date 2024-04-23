@@ -22,18 +22,8 @@ function Navbar() {
           {/* <Link class="nav-link" href="#">Link</Link> */}
         </li>
         <li class="nav-item dropdown">
-          {/* <Link class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
-          </Link> */}
-          {/* <ul class="dropdown-menu">
-            <li><Link class="dropdown-item" href="#">Action</Link></li>
-            <li><Link class="dropdown-item" href="#">Another action</Link></li>
-            <li><Link class="dropdown-item" href="#">Something else here</Link></li>
-          </ul> */}
+         
         </li>
-        {/* <li class="nav-item">
-          <Link class="nav-link disabled" aria-disabled="true">Disabled</Link>
-        </li> */}
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control " type="search" placeholder="Search here..." aria-label="Search" />

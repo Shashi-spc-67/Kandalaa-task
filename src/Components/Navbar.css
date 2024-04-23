@@ -1,6 +1,9 @@
 .container-fluid{
     height:60px;
-    
+    border: 1px solid rgb(201, 195, 195);
+   border-right: none;
+    border-top: none;
+    border-left: none;
 }
 .navbar-brand{
     height: 50px;
